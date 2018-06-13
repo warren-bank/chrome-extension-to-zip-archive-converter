@@ -1,0 +1,29 @@
+{
+  "name": "@warren-bank/chrome-extension-to-zip-archive-converter",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "bin": {
+    "crx2zip": "bin/chrome-extension-to-zip-archive-converter.js"
+  },
+  "license": "GPL-2.0",
+  "author": {
+    "name": "Warren R. Bank",
+    "email": "warren.r.bank@gmail.com",
+    "url": "https://github.com/warren-bank"
+  },
+  "homepage": "https://github.com/warren-bank/chrome-extension-to-zip-archive-converter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warren-bank/chrome-extension-to-zip-archive-converter"
+  },
+  "bugs": {
+    "url": "https://github.com/warren-bank/chrome-extension-to-zip-archive-converter/issues"
+  },
+  "description": "command-line tool to convert a CRX (chrome extension) to a ZIP archive",
+  "keywords": [
+    "crx",
+    "chrome extension",
+    "converter"
+  ]
+}

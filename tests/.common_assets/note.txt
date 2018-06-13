@@ -1,0 +1,8 @@
+https://tutorialzine.com/2010/06/making-first-chrome-extension
+
+https://demo.tutorialzine.com/2010/06/making-first-chrome-extension/demo.html
+https://demo.tutorialzine.com/2010/06/making-first-chrome-extension/demo.zip
+
+contents of "demo.zip" include the CRX file:
+  path = extension-packed/Tutorialzine_extension.crx
+  size = 45 KB
