@@ -26,7 +26,7 @@ const process_path_option = function(dirty){
     clean = dirty
   }
   else {
-    clean = __dirname + path.sep + dirty
+    clean = process.cwd() + path.sep + dirty
     clean = path.normalize(clean)
   }
   return clean
